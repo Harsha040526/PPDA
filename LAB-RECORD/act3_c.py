@@ -1,4 +1,4 @@
-ef merge_dictionaries_with_overlap():
+def merge_dictionaries_with_overlap():
     
     print("Enter the elements of the first dictionary (key:value pairs, separated by commas):")
     dict1_input = input()
